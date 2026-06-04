@@ -37,10 +37,18 @@
 │   ├── positive-activist-exam.docx  # 积极分子考题（整理版）
 │   └── positive-activist-exam.pdf   # 积极分子考题（整理版 PDF）
 │
-├── answers/             # 参考答案
-│   ├── period-67-answer.pdf   # 第67期参考答案
-│   ├── period-69-answer.pdf   # 第69期参考答案
-│   └── period-70-answer.pdf   # 第70期参考答案
+├── answers/             # 参考答案（文件名含 `-ai` 的为 AI 补全，仅供参考）
+│   ├── period-57-answer-ai.pdf    # 第57期参考答案
+│   ├── period-58-answer-ai.pdf    # 第58期参考答案
+│   ├── period-59-answer-ai.pdf    # 第59期参考答案
+│   ├── period-60-answer-ai.pdf    # 第60期参考答案
+│   ├── period-60-61-answer-ai.pdf # 第60-61期参考答案
+│   ├── period-61-answer-ai.pdf    # 第61期参考答案
+│   ├── period-62-answer-ai.pdf    # 第62期参考答案
+│   ├── period-67-answer.pdf       # 第67期参考答案
+│   ├── period-69-answer.pdf       # 第69期参考答案
+│   ├── period-70-answer.pdf       # 第70期参考答案
+│   └── period-72-answer-ai.pdf    # 第72期参考答案
 │
 ├── question-bank/       # 按题型分类的题库
 │   ├── question-bank-2025.doc # 综合题库（2025版）
